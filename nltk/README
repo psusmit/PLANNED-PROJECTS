@@ -1,0 +1,6 @@
+# pip install nltk
+#download the nltk words using this command only once
+# nltk.download('words')
+# it outputs some meaningful words from characters which user inputs
+then type python <nameoffile>.py
+then input some characters and let the majic happen...
